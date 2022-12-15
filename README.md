@@ -1,4 +1,4 @@
-Implementations of the followign abstract data types (ADTs):
+Implementations of the following abstract data types (ADTs):
 - orderings
 - ordered collections (as implemented through binary
 search trees)
